@@ -24,7 +24,7 @@ The dataset contains developer-related metrics including:
 - **Python**
 - **SQL**
 - **Pandas & NumPy**
-- **Data Visualization (Matplotlib / Tableau / Power BI)**
+- **Data Visualization (Tableau)**
 - **Data Analysis & Reporting**
 
 ## Analysis Performed
